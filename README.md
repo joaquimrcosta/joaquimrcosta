@@ -8,7 +8,7 @@
 
 <br>
 
-*Estudante de Desenvolvimento de Sistemas - SENAI Cruzeiro*
+*Estudante de Desenvolvimento de Sistemas*
 
 <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
 
@@ -33,7 +33,7 @@ Sempre buscando melhorar meus projetos
 
 <img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white">
 
-<br>
+<br><br>
 
 ## Redes Sociais 🤳🏻
 
@@ -45,7 +45,8 @@ Sempre buscando melhorar meus projetos
 
 Instagram: **@joaquim.rcosta**
 
-<br>
+<br><br>
+
 ![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
 
 </div>
