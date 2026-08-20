@@ -24,7 +24,7 @@ Sempre buscando melhorar meus projetos
 ## Ferramentas 👨🏻‍💻
 
 <img src="https://img.shields.io/badge/Python-0D47A1?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-1976D2?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-1976D2?style=for-the-badge&logo=html5&logoColor=white"><br>
 <img src="https://img.shields.io/badge/CSS3-0288D1?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Git-1565C0?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-0288D1?style=for-the-badge&logo=visualstudiocode&logoColor=white">
