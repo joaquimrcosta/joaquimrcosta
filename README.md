@@ -1,8 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="gutsarvore.jpg" width="700" >
-</p>
 # Joaquim R C Nascimento
 
  *Estudante de Desenvolvimento de Sistemas*
@@ -42,5 +39,9 @@
 <br><br>
 
 Instagram: **@joaquim.rcosta**  
+
+<br><br>
+
+![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
 
 </div>
