@@ -44,7 +44,7 @@ Sempre buscando melhorar meus projetos
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaquimrcosta&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquimrcosta&bg_color=0d1117&color=1f6feb&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 </p>
 
 ![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
