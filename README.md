@@ -8,16 +8,10 @@
 
 <br>
 
-*Estudante de Desenvolvimento de Sistemas*
+Tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas. Tenho interesse na área de tecnologia (principalmente cybersegurança) e busco aprimorar constantemente meus conhecimentos em programação e desenvolvimento de projetos. Pretendo seguir carreira na área de tecnologia e, futuramente, cursar Engenharia de Software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
 
 ---
-
-## Sobre mim 🥊
-
-Gosto de tecnologia, esportes, ver filmes e ler <br>
-Sempre buscando melhorar meus projetos
 
 <br>
 
