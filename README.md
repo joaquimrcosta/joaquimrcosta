@@ -4,11 +4,13 @@
 
 <br><br>
 
-# Joaquim R C Nascimento
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=500&lines=Joaquim+R+C+Nascimento">
 
-*Estudante de Desenvolvimento de Sistemas*
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=1976D2&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
+*Estudante de Desenvolvimento de Sistemas - SENAI Cruzeiro*
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&duration=2500&pause=1000&color=0D47A1&center=true&vCenter=true&width=350&lines=HTML+-+CSS+-+Python">
 
 ---
 
