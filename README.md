@@ -46,7 +46,6 @@ Sempre buscando melhorar meus projetos
 Instagram: **@joaquim.rcosta**
 
 <br>
-
 ![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
 
 </div>
