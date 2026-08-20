@@ -16,7 +16,6 @@
 
 ## Sobre mim 🥊
 
-Sou estudante de Desenvolvimento de Sistemas <br>
 Gosto de tecnologia, esportes, ver filmes e ler <br>
 Sempre buscando melhorar meus projetos
 
@@ -34,7 +33,7 @@ Sempre buscando melhorar meus projetos
 
 <img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white">
 
-<br><br>
+<br>
 
 ## Redes Sociais 🤳🏻
 
@@ -46,7 +45,7 @@ Sempre buscando melhorar meus projetos
 
 Instagram: **@joaquim.rcosta**
 
-<br><br>
+<br>
 
 ![Visitors](https://hits.sh/github.com/joaquimrcosta/joaquimrcosta.svg?style=for-the-badge&label=VISITAS&color=blue)
 
